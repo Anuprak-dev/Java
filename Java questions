@@ -1,0 +1,96 @@
+#A. Arrays (15 Questions)
+(These build your foundation for coding interviews)
+Find the max and min in an array.
+Find the second largest element in an array.
+Reverse an array in-place.
+Move all zeros to the end of the array.
+Check if the array is sorted.
+Find the missing number from 1..N.
+Find the duplicate number when only one duplicate exists.
+Rotate array by K steps (using reverse approach).
+Merge two sorted arrays.
+Find intersection of two arrays.
+Count frequencies of all elements (using HashMap).
+Find the majority element (Boyer-Moore beginner version).
+Find the peak element (binary search type).
+Kadane’s Algorithm – Maximum subarray sum.
+Find pair sum = K using two pointers.
+
+#B. Strings (10 Questions)
+(Simple but very frequently asked)
+Reverse a string.
+Check if a string is a palindrome.
+Count vowels & consonants.
+Remove duplicate characters from a string.
+Check if two strings are anagrams.
+Find the first non-repeating character.
+Count frequency of each character.
+Convert lowercase → uppercase without using built-in.
+Longest common prefix in an array of strings.
+Check if two strings differ by one edit distance.
+
+#C. Two Pointers & Sliding Window (8 Questions)
+Longest substring without repeating characters.
+Longest substring with K distinct characters (easy version).
+Check if a string is a permutation of another substring.
+Minimum size subarray sum (beginner sliding window).
+Container With Most Water (famous 2-pointer).
+Sort array of 0s, 1s, 2s (Dutch Flag easy version).
+Find squares of sorted array.
+Find triplets with sum = 0 (3-sum beginner version).
+
+#D. Recursion Basics (6 Questions)
+(Beginner-friendly recursion practice)
+Factorial using recursion.
+Fibonacci using recursion (and optimized DP version optional).
+Reverse a string using recursion.
+Sum of digits using recursion.
+Power of a number (fast exponentiation – easy version).
+Print all subsets of a given array (recursion intro).
+
+#E. Linked List (10 Questions)
+(Practices common interview patterns but not too hard)
+Implement a singly linked list.
+Insert at head, tail, and delete a value.
+Find middle of linked list (slow/fast).
+Detect cycle in linked list (Floyd’s – beginner version).
+Reverse a linked list (iterative).
+Reverse a linked list (recursive).
+Merge two sorted linked lists.
+Remove duplicates in a sorted linked list.
+Check if linked list is palindrome (easy logic).
+Remove Nth node from end (two-pointer easy version).
+
+#F. Stack & Queue (6 Questions)
+Implement stack using array.
+Implement queue using array.
+Valid parentheses (using stack).
+Evaluate postfix expression (beginner version).
+Next greater element (easy stack version).
+Implement min stack (store pairs).
+
+#G. Binary Search (8 Questions)
+(Perfect level for you right now)
+Binary search basic implementation.
+Search in rotated sorted array (beginner version).
+Find first/last occurrence of an element.
+Floor and Ceiling of a number.
+Search insert position.
+Find peak element (binary search version).
+Square root of a number using binary search.
+Find smallest letter greater than target.
+
+#H. Sorting Concepts (4 Questions)
+Bubble sort (optimized).
+Selection sort.
+Insertion sort.
+Merge sort (only conceptual + simple implementation).
+
+#I. Basic OOP & Java Concepts (6 Questions)
+(Not coding-heavy but MUST know)
+Implement a class Student with Encapsulation (getters/setters).
+Demonstrate constructor overloading.
+Demonstrate method overloading and overriding.
+Create interface + class implementing it.
+Implement a simple BankAccount class (deposit/withdraw).
+Override equals() and hashCode() in a simple class.
