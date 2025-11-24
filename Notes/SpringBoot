@@ -10,3 +10,6 @@ What is spring initialiser?
 Why Spring Boot over Spring?
 What does @SpringBootApplication annotation do internally?
 What are the differences between @RequestParam and @PathVariable annotations?
+How to increase performence in spring application?
+How to deploy your Spring Application?
+how to handle traffic in spring application?
