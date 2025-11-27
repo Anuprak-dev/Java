@@ -1,0 +1,13 @@
+package Anurag;
+
+public class Day3 {
+    public static void main(String[]args){
+        int i=10;
+        while(i>0){
+
+        System.out.println("Anurag Day3");
+        i--;
+        }
+        
+    }
+}

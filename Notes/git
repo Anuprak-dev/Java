@@ -6,6 +6,8 @@ git commit -m "your message "
 
 git push origin main
 
+git pull 
+
 git fetch origin
 
 git remote add origin https://github.com/Anuprak-dev/Java.git
